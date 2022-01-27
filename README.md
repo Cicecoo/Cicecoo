@@ -1,7 +1,7 @@
 - It's Cicecoo
 - Learning in LangYa, HUST
 - I’m currently learning Cpp, OpenCV
-- 📫 Reach me at aicaroline@gmail.com
+- Reach me at aicaroline@foxmail.com
 - :rofl:
 <!---
 Cicecoo/Cicecoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
