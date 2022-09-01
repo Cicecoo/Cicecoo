@@ -1,6 +1,5 @@
 - It's Cicecoo
 - Learning in LangYa, HUST
-- I’m currently learning Cpp, OpenCV
 - Reach me at aicaroline@foxmail.com
 - :rofl:
 <!---
